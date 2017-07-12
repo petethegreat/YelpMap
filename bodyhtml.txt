@@ -1,0 +1,4 @@
+<!-- additional stuff to go into map html -->
+<!-- yelp Logo -->  
+<div style="position:fixed;bottom:0;left:0;z-index:1"> <img src='assets/Yelp_trademark_RGB.png' width=200px> </div>
+
